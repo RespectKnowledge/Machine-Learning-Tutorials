@@ -1,2 +1,2 @@
-# Numpy-Pandas_Basic_Tutorial
+# Machine Learning Tutorials
 Numpy, Pnadas, Scikit_Learn
